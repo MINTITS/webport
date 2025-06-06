@@ -932,7 +932,7 @@ section,
 
 .hero:before {
   content: "";
-  background: rgba(71, 141, 166, 0.877); /* White overlay at 40% transparency */
+  background: rgba(0, 0, 0, 0.614); /* White overlay at 40% transparency */
   position: absolute;
   inset: 0;
   z-index: 2;
